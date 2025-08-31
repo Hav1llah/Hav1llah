@@ -8,6 +8,7 @@ Currently focused on Web3 education, content creation, and community management.
 
 
 
+
 🔥 What I Do
 
 📖 Develop beginner-friendly Web3 learning resources
@@ -19,6 +20,8 @@ Currently focused on Web3 education, content creation, and community management.
 🛠 Create awareness campaigns & project insights
 
 💬 Support user onboarding & engagement
+
+
 
 
 
