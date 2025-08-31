@@ -19,6 +19,8 @@ Currently focused on Web3 education, content creation, and community management.
 
 🛠 Create awareness campaigns & project insights
 
+Collaborate with projects building for adoption
+
 💬 Support user onboarding & engagement
 
 
